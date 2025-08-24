@@ -1,13 +1,19 @@
 # Olá, eu sou Lucas Rodrigues 👋
 
+## Sobre mim
 Estudante de Direito ⚖️  
-Aspirante a Advogado Societário | Foco em Contratos e Governança Corporativa  
+Aspirante a Advogado Societário | Foco em Contratos e Governança Corporativa
 
-Experiência em:  
-📚 Pesquisa Jurídica  
-✍️ Análise de Contratos  
-💻 Pacote Office  
+## Tecnologias e Habilidades
+- Direito Contratual
+- Direito Societário
+- Pesquisa Jurídica
+- Pacote Office
+- Inglês
 
-Busco oportunidades para aprender e aplicar meus conhecimentos.  
+## Projetos
+- **Análise de Contratos Empresariais**: Estudo sobre cláusulas contratuais e melhores práticas.
+- **Projeto de Pesquisa em Governança Corporativa**: Levantamento de jurisprudência e artigos acadêmicos.
 
-[LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-98a419219/)
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-98a419219/)
